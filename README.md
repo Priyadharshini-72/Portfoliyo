@@ -1,20 +1,18 @@
 # Personal Portfolio Website
 
-**Name:** PRIYADHARSHINI K  
-**Intern ID:** CTIS0335  
-**Domain:** Frontend Development  
-**Duration:** 4 Weeks  
-**Company:** Codetech IT Solutions  
-**Mentor:** Neela Santhosh  
+# Name: PRIYADHARSHINI K  
+# Intern ID: CTIS0335  
+# Domain: Frontend Development  
+# Duration: 4 Weeks  
+# Company: Codetech IT Solutions  
+# Mentor: Neela Santhosh  
 
----
+
 
 ## 📌 Project Overview
 
 This project is a **personal portfolio website** developed as part of my **Frontend Development Internship**.  
 The website highlights my **skills, projects, and contact information** using a clean, responsive, and user-friendly design.
-
----
 
 ##  Features
 
