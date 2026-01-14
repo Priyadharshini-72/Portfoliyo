@@ -46,4 +46,7 @@ portfolio-website
 
 ## 📸 Output
 
-A simple, elegant, and responsive portfolio website that demonstrates my frontend development skills 
+A simple, elegant, and responsive portfolio website that demonstrates my frontend development skills
+<img width="1877" height="972" alt="Image" src="https://github.com/user-attachments/assets/78ef24b5-c1ca-497d-8b6c-4bbf9f411287" />
+<img width="1892" height="781" alt="Image" src="https://github.com/user-attachments/assets/2e85f193-6111-4038-aa4b-8c84a80b867b" />
+<img width="1883" height="946" alt="Image" src="https://github.com/user-attachments/assets/0d095e62-d10f-4fa9-bc90-ed0380270f67" />
